@@ -1,0 +1,75 @@
+*{
+  box-sizing: border-box;
+}
+
+
+.main-container{
+  background-color:3366CC;
+  width:95vw;
+  height: 20vw;
+  margin: 2vw;
+  padding: 2vw;
+}
+.sub-container{
+  background-color: #ffb3b3;
+  opacity:0.8;
+  border:2px solid  #1a1aff;
+  text-align: center;
+  padding: 3vw;
+  font-size: 2vw;
+}
+[class^=letter]{
+  display: inline-block;
+  font-weight: 2vw;
+
+}
+.letter1{
+color:red;
+}
+.letter2{
+
+}
+.letter3{
+color:yellow;
+
+}
+.letter4{
+
+}
+.letter5{
+color:blue;
+
+}
+.letter6{
+
+}
+.letter7{
+  color:blue;
+    padding-left: 1vw;
+}
+.letter8{
+
+}
+.letter9{
+ color:red;
+    padding-right: 1vw;
+}
+.letter10{
+
+}
+.letter11{
+  color: blue;
+
+}
+.letter12{
+
+}
+.letter13{
+color:green;
+}
+.letter14{
+
+}
+.letter15{
+color:yellow;
+}
